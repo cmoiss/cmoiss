@@ -1,8 +1,14 @@
 ### Olá, eu sou o Caio Souza 👋
 
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiomoises/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmoiss&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmoiss)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <a href="https://github.com/cmoiss/">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmoiss&show_icons=true&theme=gruvbox" alt="Status do meu GitHub" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmoiss" alt="Linguagens mais usadas">
+    </a>
+</div>
 
 
 <div style="display: inline_block"><br/>
