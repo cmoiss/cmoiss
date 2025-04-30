@@ -6,7 +6,8 @@
 
 <div>
     <a href="https://github.com/cmoiss/">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmoiss&show_icons=true&theme=gruvbox" alt="Status do meu GitHub" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmoiss" alt="Linguagens mais usadas">
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmoiss&show_icons=true&theme=gruvbox" alt="Status do meu GitHub" /> -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmoiss" alt="Linguagens mais usadas">
     </a>
 </div>
 
