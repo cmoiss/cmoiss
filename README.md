@@ -2,7 +2,7 @@
 
 **🎓 Estudante de Análise e Desenvolvimento de Sistemas | Líder de Sala**  
 📍 Natal - RN, Brasil  
-💡 Apaixonado por desenvolvimento full-stack e soluções práticas com código.  
+💡 Desenvolvedor full-stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/caiomoises/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ocaiomoises@gmail.com)  
